@@ -1,0 +1,42 @@
+[
+  {
+    "sourceTitle": "Disclosure Day",
+    "date": "2026-10-12",
+    "platform": "JioHotstar",
+    "id": "tt15047880",
+    "type": "movie",
+    "name": "Disclosure Day",
+    "poster": "https://images.metahub.space/poster/small/tt15047880/img",
+    "releaseInfo": "2026"
+  },
+  {
+    "sourceTitle": "War",
+    "date": "2026-10-03",
+    "platform": "JioHotstar",
+    "id": "tt37972251",
+    "type": "series",
+    "name": "War",
+    "poster": "https://images.metahub.space/poster/small/tt37972251/img",
+    "releaseInfo": "2025–"
+  },
+  {
+    "sourceTitle": "Carrie",
+    "date": "2026-10-07",
+    "platform": "Amazon Prime Video",
+    "id": "tt11540908",
+    "type": "series",
+    "name": "Carrie",
+    "poster": "https://images.metahub.space/poster/small/tt11540908/img",
+    "releaseInfo": "2026–"
+  },
+  {
+    "sourceTitle": "Mortal Kombat 2",
+    "date": "2026-10-08",
+    "platform": "JioHotstar",
+    "id": "tt17490712",
+    "type": "movie",
+    "name": "Mortal Kombat II",
+    "poster": "https://images.metahub.space/poster/small/tt17490712/img",
+    "releaseInfo": "2026"
+  }
+]

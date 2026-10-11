@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-10-11T07:13:06.868Z",
+  "indiaDate": "2026-10-11",
+  "source": "https://www.myvi.in/blog/ott-releases-this-week",
+  "coverage": "Vi curated weekly list only; not exhaustive. No pre-installation history is invented.",
+  "sort": "Vi-reported OTT date descending",
+  "windowDays": 90,
+  "movieCount": 1,
+  "seriesCount": 2,
+  "upcoming": [
+    {
+      "title": "Disclosure Day",
+      "date": "2026-10-12"
+    }
+  ],
+  "unresolved": []
+}
