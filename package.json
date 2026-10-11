@@ -2,6 +2,6 @@
   "name": "vi-ott-catalog",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node scripts/build.mjs", "test": "node --test" },
+  "scripts": { "build": "node scripts/refresh.mjs", "test": "node --test" },
   "engines": { "node": ">=22" }
 }

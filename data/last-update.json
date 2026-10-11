@@ -1,17 +1,133 @@
 {
-  "updatedAt": "2026-10-11T07:13:55.248Z",
+  "updatedAt": "2026-10-11T07:48:57.842Z",
   "indiaDate": "2026-10-11",
-  "source": "https://www.myvi.in/blog/ott-releases-this-week",
-  "coverage": "Vi curated weekly list only; not exhaustive. No pre-installation history is invented.",
-  "sort": "Vi-reported OTT date descending",
-  "windowDays": 90,
-  "movieCount": 1,
-  "seriesCount": 2,
-  "upcoming": [
-    {
-      "title": "Disclosure Day",
-      "date": "2026-10-12"
+  "retention": "two calendar months",
+  "cutoff": "2026-08-11",
+  "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
+  "movieCount": 10,
+  "seriesCount": 6,
+  "sourceHealth": {
+    "streamradar": {
+      "state": "ok",
+      "checkedAt": "2026-10-11T07:48:42.582Z",
+      "rawCount": 61
+    },
+    "gq": {
+      "state": "blocked-or-unavailable",
+      "articlesRead": 0,
+      "cachedSnapshotDate": "2026-10-11",
+      "errors": [
+        {
+          "url": "https://www.gqindia.com/feed/rss",
+          "reason": "HTTP 403 from www.gqindia.com"
+        },
+        {
+          "url": "https://www.gqindia.com/binge-watch",
+          "reason": "HTTP 403 from www.gqindia.com"
+        }
+      ]
     }
-  ],
-  "unresolved": []
+  },
+  "unresolved": [
+    {
+      "source": "StreamRadar",
+      "title": "Politricks",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Hum Dil De Chuke Sanam",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Residence",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Law & Order Toronto: Criminal Intent S4",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Oishii no Tsukurikata",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Sisters Grimm Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Mickey Mouse Clubhouse 2.0",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Tougen Anki Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "I Would Rather Die",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Raandhuni Na Kaanduni",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Paul, la série",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Indian Game Show",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Chumbak Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Red Queen Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Premik Premika aar Petnee",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Pupstruction Season 3",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Dupahiya Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Crime Patrol 2026",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "WAR",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "GQ India",
+      "title": "Matchbox The Movie",
+      "reason": "Ambiguous identity: 0 cast-confirmed matches"
+    }
+  ]
 }

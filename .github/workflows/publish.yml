@@ -1,4 +1,4 @@
-name: Refresh Vi catalog and publish
+name: Refresh StreamRadar and GQ OTT picks
 on:
   push:
     branches: [main]
@@ -29,9 +29,9 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add data/releases.json data/last-update.json
+          git add data/releases.json data/last-update.json data/gq-articles.json
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh public Vi release archive"
+            git commit -m "Refresh public two-month OTT picks archive"
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
