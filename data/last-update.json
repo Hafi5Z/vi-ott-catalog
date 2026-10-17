@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-16T08:29:05.059Z",
-  "indiaDate": "2026-10-16",
+  "updatedAt": "2026-10-17T08:01:18.479Z",
+  "indiaDate": "2026-10-17",
   "retention": "two calendar months",
-  "cutoff": "2026-08-16",
+  "cutoff": "2026-08-17",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 10,
   "seriesCount": 6,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-10-16T08:28:13.336Z",
+      "checkedAt": "2026-10-17T08:00:32.258Z",
       "rawCount": 61
     },
     "gq": {
