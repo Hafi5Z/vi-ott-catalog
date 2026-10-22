@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-21T08:51:26.775Z",
-  "indiaDate": "2026-10-21",
+  "updatedAt": "2026-10-22T08:54:27.541Z",
+  "indiaDate": "2026-10-22",
   "retention": "two calendar months",
-  "cutoff": "2026-08-21",
+  "cutoff": "2026-08-22",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 10,
   "seriesCount": 6,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-10-21T08:50:47.322Z",
+      "checkedAt": "2026-10-22T08:53:28.584Z",
       "rawCount": 61
     },
     "gq": {
@@ -128,11 +128,6 @@
       "source": "GQ India",
       "title": "Matchbox The Movie",
       "reason": "Ambiguous identity: 0 cast-confirmed matches"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Golmaal 3",
-      "reason": "HTTP 504 from v3-cinemeta.strem.io"
     }
   ]
 }
