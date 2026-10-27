@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-26T09:19:48.781Z",
-  "indiaDate": "2026-10-26",
+  "updatedAt": "2026-10-27T09:19:12.844Z",
+  "indiaDate": "2026-10-27",
   "retention": "two calendar months",
-  "cutoff": "2026-08-26",
+  "cutoff": "2026-08-27",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 22,
   "seriesCount": 19,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-10-26T09:19:15.617Z",
+      "checkedAt": "2026-10-27T09:18:32.231Z",
       "rawCount": 200
     },
     "gq": {
@@ -426,32 +426,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Celebrity Master Chef - Tamil",
-      "reason": "IMDb metadata missing"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Extraordinary Attorney Minami",
-      "reason": "IMDb metadata missing"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Final Table",
-      "reason": "IMDb metadata missing"
-    },
-    {
-      "source": "StreamRadar",
       "title": "LOST10",
-      "reason": "IMDb metadata missing"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Kon Yashwant Pansare?",
-      "reason": "IMDb metadata missing"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Corregidora: The Darkest Night in Mexican Soccer",
       "reason": "IMDb metadata missing"
     }
   ]
