@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-27T09:19:12.844Z",
-  "indiaDate": "2026-10-27",
+  "updatedAt": "2026-10-28T10:01:20.234Z",
+  "indiaDate": "2026-10-28",
   "retention": "two calendar months",
-  "cutoff": "2026-08-27",
+  "cutoff": "2026-08-28",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 22,
   "seriesCount": 19,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-10-27T09:18:32.231Z",
+      "checkedAt": "2026-10-28T09:58:50.466Z",
       "rawCount": 200
     },
     "gq": {
@@ -426,8 +426,13 @@
     },
     {
       "source": "StreamRadar",
-      "title": "LOST10",
-      "reason": "IMDb metadata missing"
+      "title": "Kon Honaar Crorepati",
+      "reason": "HTTP 504 from v3-cinemeta.strem.io"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Panthadikkaam",
+      "reason": "HTTP 504 from v3-cinemeta.strem.io"
     }
   ]
 }
