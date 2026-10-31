@@ -497,5 +497,17 @@
     "dateKind": "first-observed",
     "source": "StreamRadar",
     "sourceUrl": "https://streamradar.bricksgenius.com/catalog/series/streamradar-justin-shows.json"
+  },
+  {
+    "id": "tt46027225",
+    "type": "movie",
+    "name": "Super Scam Me",
+    "poster": "https://live.metahub.space/poster/small/tt46027225/img",
+    "releaseInfo": "2026",
+    "sourceTitle": "Super Scam Me",
+    "date": "2026-10-31",
+    "dateKind": "first-observed",
+    "source": "StreamRadar",
+    "sourceUrl": "https://streamradar.bricksgenius.com/catalog/movie/streamradar-justin-movies.json"
   }
 ]
