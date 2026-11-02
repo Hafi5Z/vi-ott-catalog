@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-01T10:47:17.247Z",
-  "indiaDate": "2026-11-01",
+  "updatedAt": "2026-11-02T11:39:00.394Z",
+  "indiaDate": "2026-11-02",
   "retention": "two calendar months",
-  "cutoff": "2026-09-01",
+  "cutoff": "2026-09-02",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 23,
   "seriesCount": 19,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-11-01T10:46:38.664Z",
+      "checkedAt": "2026-11-02T11:38:20.988Z",
       "rawCount": 200
     },
     "gq": {
@@ -423,11 +423,6 @@
       "source": "GQ India",
       "title": "Matchbox The Movie",
       "reason": "Ambiguous identity: 0 cast-confirmed matches"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Extraordinary Attorney Minami",
-      "reason": "IMDb metadata missing"
     }
   ]
 }
