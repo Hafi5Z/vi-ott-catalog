@@ -502,10 +502,22 @@
     "id": "tt46027225",
     "type": "movie",
     "name": "Super Scam Me",
-    "poster": "https://live.metahub.space/poster/small/tt46027225/img",
+    "poster": "https://images.metahub.space/poster/small/tt46027225/img",
     "releaseInfo": "2026",
     "sourceTitle": "Super Scam Me",
     "date": "2026-10-31",
+    "dateKind": "first-observed",
+    "source": "StreamRadar",
+    "sourceUrl": "https://streamradar.bricksgenius.com/catalog/movie/streamradar-justin-movies.json"
+  },
+  {
+    "id": "tt48933405",
+    "type": "movie",
+    "name": "Theo Von: I'm Doing Fine",
+    "poster": "https://live.metahub.space/poster/small/tt48933405/img",
+    "releaseInfo": "2026",
+    "sourceTitle": "Theo Von: I’m Doing Fine",
+    "date": "2026-11-03",
     "dateKind": "first-observed",
     "source": "StreamRadar",
     "sourceUrl": "https://streamradar.bricksgenius.com/catalog/movie/streamradar-justin-movies.json"

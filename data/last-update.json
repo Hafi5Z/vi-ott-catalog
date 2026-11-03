@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-02T11:39:00.394Z",
-  "indiaDate": "2026-11-02",
+  "updatedAt": "2026-11-03T11:17:14.550Z",
+  "indiaDate": "2026-11-03",
   "retention": "two calendar months",
-  "cutoff": "2026-09-02",
+  "cutoff": "2026-09-03",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
-  "movieCount": 23,
+  "movieCount": 24,
   "seriesCount": 19,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-11-02T11:38:20.988Z",
+      "checkedAt": "2026-11-03T11:16:26.026Z",
       "rawCount": 200
     },
     "gq": {
@@ -418,6 +418,11 @@
       "source": "StreamRadar",
       "title": "Phineas and Ferb Season 6",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "GQ India",
+      "title": "Haunted Hotel Season 2",
+      "reason": "Ambiguous identity: 2 cast-confirmed matches"
     },
     {
       "source": "GQ India",
