@@ -78,19 +78,6 @@
     "platform": "Netflix"
   },
   {
-    "id": "tt28014327",
-    "type": "movie",
-    "name": "Mayday",
-    "poster": "https://images.metahub.space/poster/small/tt28014327/img",
-    "releaseInfo": "2026",
-    "sourceTitle": "Mayday",
-    "date": "2026-09-04",
-    "dateKind": "reported-ott-date",
-    "source": "GQ India",
-    "sourceUrl": "https://www.gqindia.com/content/friday-ott-releases-september-4-2026-6-new-movies-and-shows-on-netflix-jiohotstar-and-more",
-    "platform": "Apple TV"
-  },
-  {
     "id": "tt37853455",
     "type": "movie",
     "name": "One Night Only",
