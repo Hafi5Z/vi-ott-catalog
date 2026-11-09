@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T10:44:20.121Z",
-  "indiaDate": "2026-11-08",
+  "updatedAt": "2026-11-09T12:02:31.912Z",
+  "indiaDate": "2026-11-09",
   "retention": "two calendar months",
-  "cutoff": "2026-09-08",
+  "cutoff": "2026-09-09",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
-  "movieCount": 23,
-  "seriesCount": 19,
+  "movieCount": 35,
+  "seriesCount": 29,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-11-08T10:43:35.249Z",
+      "checkedAt": "2026-11-09T12:01:57.969Z",
       "rawCount": 200
     },
     "gq": {
@@ -31,7 +31,32 @@
   "unresolved": [
     {
       "source": "StreamRadar",
+      "title": "The Vvaan",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "ICU",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Heartbeat",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Avaraachan & Sons",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
       "title": "Kagitham Padavalu",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Kordell Stewart / Slash & Burn",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -41,12 +66,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Fading Grandeur",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Vanilla",
+      "title": "The Flores Massacre",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -56,7 +76,22 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Lupin Part 4",
+      "title": "Kon Yashwant Pansare?",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Corregidora: The Darkest Night in Mexican Soccer",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Devak Kalji",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Naniwa Danshi 5th Anniversary Live Collection",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -66,12 +101,22 @@
     },
     {
       "source": "StreamRadar",
+      "title": "Day of the Dead: Ofrenda",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Panthadikkaam",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
       "title": "Raas",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Couldn’t Agree Less with Allison & Isaac",
+      "title": "The Honest Realtor",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -81,92 +126,67 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Did Someone Happen to Mention Me?",
+      "title": "All’s Fair Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Nobody Wants This Season 3",
+      "title": "Black Doves Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Matargashti",
+      "title": "Stick Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "The Mothers of Penguins Season 2",
+      "title": "St. Denis Medical Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Star",
+      "title": "North of North Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Reasonable Doubt Season 4",
+      "title": "The Fall And Rise Of Reggie Dinkins S2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "The New Stanford Prison Experiment",
+      "title": "The Gilded Age Season 4",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Marshals Season 2",
+      "title": "Crime Patrol - Marathi",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Cyberpunk: Edgerunners Season 2",
+      "title": "Raandhuni Na Kaanduni",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Africa Earth’s Wild Home",
+      "title": "Masha And The Bear Season 7",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Gyeongseong Touring Troupe",
+      "title": "Premik Premika aar Petnee",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Midnight Diner: Tokyo Stories Season 3",
+      "title": "Crime Patrol 2026",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Law & Order Toronto: Criminal Intent S4",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Mickey Mouse Clubhouse 2.0",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Politricks",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Khalifa: The Ruler",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Untitled Home Invasion Romance",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Six Kings Slam Season 2",
+      "title": "The Traitor Within",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -176,12 +196,12 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Where’s Wanda? Season 2",
+      "title": "Birangana Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "The Legend of Hanuman Season 7",
+      "title": "Where’s Wanda? Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -191,12 +211,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Birangana Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Mermaid Magic Season 2",
+      "title": "Happy’s Place Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -211,12 +226,22 @@
     },
     {
       "source": "StreamRadar",
-      "title": "The Terminal List Season 2",
+      "title": "R91",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Raandhuni Na Kaanduni",
+      "title": "The Legend of Hanuman Season 7",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Mecha Builders",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Terminal List Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -226,22 +251,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Money Trap",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Men Will Be Men",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Roadies Season 21",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Devak Kalji",
+      "title": "Lupin Part 4",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -251,7 +261,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Premik Premika aar Petnee",
+      "title": "Couldn’t Agree Less with Allison & Isaac",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -261,17 +271,12 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Pororo the Little Penguin Season 9",
+      "title": "Roadies Season 21",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Crime Patrol 2026",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Diplomat Season 4",
+      "title": "Nobody Wants This Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -281,17 +286,27 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Helluva Boss Season 3",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
       "title": "Koffee with Karan Season 9",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Love Is Blind Season 11",
+      "title": "Six Kings Slam Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Helluva Boss Season 3",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Mothers of Penguins Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Below Deck Season 13",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -301,7 +316,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Below Deck Season 13",
+      "title": "Cyberpunk: Edgerunners Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -316,7 +331,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Iron Chef Thailand Vs Asia Season 2",
+      "title": "Midnight Diner: Tokyo Stories Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -326,108 +341,18 @@
     },
     {
       "source": "StreamRadar",
-      "title": "100 Days of Deception",
+      "title": "Mermaid Magic Season 2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Hakone Ekident Our Story",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Silent Planet",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Doctor X: Mafia in White",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "CIA Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Elsbeth Season 4",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Haunted Hotel Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Oishii no Tsukurikata",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Is It Cake? Halloween Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "I Would Rather Die",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Kardashians Season 8",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Paul, la série",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Law & Order: Special Victims Unit Season 28",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Rooster Fighter",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Red Queen Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "To Catch a Smuggler: Contraband Capture",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Below (2026)",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Dupahiya Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Phineas and Ferb Season 6",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "GQ India",
-      "title": "Haunted Hotel Season 2",
-      "reason": "Ambiguous identity: 2 cast-confirmed matches"
     },
     {
       "source": "GQ India",
       "title": "Matchbox The Movie",
       "reason": "Ambiguous identity: 0 cast-confirmed matches"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Hostel Haadsa",
+      "reason": "IMDb metadata missing"
     }
   ]
 }
