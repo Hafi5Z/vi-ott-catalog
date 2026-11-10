@@ -68,7 +68,7 @@
     "id": "tt32499579",
     "type": "series",
     "name": "Haunted Hotel",
-    "poster": "https://live.metahub.space/poster/small/tt32499579/img",
+    "poster": "https://images.metahub.space/poster/small/tt32499579/img",
     "releaseInfo": "2025–",
     "sourceTitle": "Haunted Hotel Season 2",
     "date": "2026-10-09",
@@ -771,5 +771,17 @@
     "dateKind": "first-observed",
     "source": "StreamRadar",
     "sourceUrl": "https://streamradar.bricksgenius.com/catalog/series/streamradar-justin-shows.json"
+  },
+  {
+    "id": "tt46068179",
+    "type": "movie",
+    "name": "Mike Tyson: Return of the Mike",
+    "poster": "https://live.metahub.space/poster/small/tt46068179/img",
+    "releaseInfo": "2026",
+    "sourceTitle": "Mike Tyson: Return of the Mike",
+    "date": "2026-11-10",
+    "dateKind": "first-observed",
+    "source": "StreamRadar",
+    "sourceUrl": "https://streamradar.bricksgenius.com/catalog/movie/streamradar-justin-movies.json"
   }
 ]
