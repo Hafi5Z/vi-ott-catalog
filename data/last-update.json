@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-15T11:26:38.896Z",
-  "indiaDate": "2026-11-15",
+  "updatedAt": "2026-11-16T11:58:55.616Z",
+  "indiaDate": "2026-11-16",
   "retention": "two calendar months",
-  "cutoff": "2026-09-15",
+  "cutoff": "2026-09-16",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
-  "movieCount": 36,
-  "seriesCount": 29,
+  "movieCount": 46,
+  "seriesCount": 35,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-11-15T11:26:04.682Z",
+      "checkedAt": "2026-11-16T11:58:22.953Z",
       "rawCount": 200
     },
     "gq": {
@@ -31,12 +31,32 @@
   "unresolved": [
     {
       "source": "StreamRadar",
-      "title": "The Vvaan",
+      "title": "Avengers Endgame: Encore",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
       "title": "ICU",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Dot to Dot: Will I Be Single Forever?",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Tyler Perry’s The Gospel of Christmas",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Vvaan",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "WWE Crown Jewel 2026",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -76,62 +96,27 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Kon Yashwant Pansare?",
+      "title": "Southern Charm Season 12",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Corregidora: The Darkest Night in Mexican Soccer",
+      "title": "Kauriburi The Curshed Temple",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Devak Kalji",
+      "title": "Vigil Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Naniwa Danshi 5th Anniversary Live Collection",
+      "title": "Student of the Year: After Dark",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
       "source": "StreamRadar",
-      "title": "Miller Night Football",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Day of the Dead: Ofrenda",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Panthadikkaam",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Raas",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Honest Realtor",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Toy Story: 30 Years and Beyond – A Special Edition of 20/20",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "All’s Fair Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Black Doves Season 2",
+      "title": "The Lord of the Rings: The Rings of Power Season 3",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -141,22 +126,7 @@
     },
     {
       "source": "StreamRadar",
-      "title": "St. Denis Medical Season 3",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "North of North Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Fall And Rise Of Reggie Dinkins S2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Gilded Age Season 4",
+      "title": "Stars and Vows: Anele & Buzza",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -171,7 +141,17 @@
     },
     {
       "source": "StreamRadar",
-      "title": "Masha And The Bear Season 7",
+      "title": "All’s Fair Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "St. Denis Medical Season 3",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Fall And Rise Of Reggie Dinkins S2",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -181,7 +161,42 @@
     },
     {
       "source": "StreamRadar",
+      "title": "The Gilded Age Season 4",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "The Devils Plan Season 3",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
       "title": "Crime Patrol 2026",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Power Book II: Ghost S1-S4",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Kauriburi The Curshed Temple",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Black Doves Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "North of North Season 2",
+      "reason": "No reliable IMDb ID; excluded for playback compatibility"
+    },
+    {
+      "source": "StreamRadar",
+      "title": "Masha And The Bear Season 7",
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
@@ -275,83 +290,13 @@
       "reason": "No reliable IMDb ID; excluded for playback compatibility"
     },
     {
-      "source": "StreamRadar",
-      "title": "Nobody Wants This Season 3",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Marília Mendonça: All the Feels",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Koffee with Karan Season 9",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Six Kings Slam Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Helluva Boss Season 3",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "The Mothers of Penguins Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Below Deck Season 13",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Dangerous",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Cyberpunk: Edgerunners Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Carrie (2026)",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Fire Country Season 5",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Midnight Diner: Tokyo Stories Season 3",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Sheriff Country Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Mermaid Magic Season 2",
-      "reason": "No reliable IMDb ID; excluded for playback compatibility"
-    },
-    {
       "source": "GQ India",
       "title": "Matchbox The Movie",
       "reason": "Ambiguous identity: 0 cast-confirmed matches"
     },
     {
       "source": "StreamRadar",
-      "title": "Hostel Haadsa",
+      "title": "Pushpaka Vimanam",
       "reason": "IMDb metadata missing"
     }
   ]
