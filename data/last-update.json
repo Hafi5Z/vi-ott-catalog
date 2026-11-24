@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-23T13:34:46.678Z",
-  "indiaDate": "2026-11-23",
+  "updatedAt": "2026-11-24T14:13:03.959Z",
+  "indiaDate": "2026-11-24",
   "retention": "two calendar months",
-  "cutoff": "2026-09-23",
+  "cutoff": "2026-09-24",
   "coverage": "Curated, not exhaustive; conservative English-production filter. StreamRadar first-observed dates are NOT OTT dates. GQ dates are explicit arrivals or labelled recommendation dates.",
   "movieCount": 46,
-  "seriesCount": 35,
+  "seriesCount": 36,
   "sourceHealth": {
     "streamradar": {
       "state": "ok",
-      "checkedAt": "2026-11-23T13:33:53.021Z",
+      "checkedAt": "2026-11-24T14:12:16.477Z",
       "rawCount": 200
     },
     "gq": {
@@ -293,11 +293,6 @@
       "source": "GQ India",
       "title": "Matchbox The Movie",
       "reason": "Ambiguous identity: 0 cast-confirmed matches"
-    },
-    {
-      "source": "StreamRadar",
-      "title": "Hostel Haadsa",
-      "reason": "IMDb metadata missing"
     }
   ]
 }
