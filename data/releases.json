@@ -986,5 +986,17 @@
     "dateKind": "first-observed",
     "source": "StreamRadar",
     "sourceUrl": "https://streamradar.bricksgenius.com/catalog/series/streamradar-justin-shows.json"
+  },
+  {
+    "id": "tt49625485",
+    "type": "movie",
+    "name": "Janelle James: How Romantic",
+    "poster": "https://live.metahub.space/poster/small/tt49625485/img",
+    "releaseInfo": "2026",
+    "sourceTitle": "Janelle James: How Romantic",
+    "date": "2026-11-26",
+    "dateKind": "first-observed",
+    "source": "StreamRadar",
+    "sourceUrl": "https://streamradar.bricksgenius.com/catalog/movie/streamradar-justin-movies.json"
   }
 ]
